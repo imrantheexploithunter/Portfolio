@@ -1,0 +1,22 @@
+{
+  "name": "Imran Chowdhury | ImranTheExploitHunter",
+  "short_name": "ImranTheExploitHunter",
+  "description": "Cyber Security Researcher specializing in Red Team Operations, Threat Intelligence, Malware Analysis and Open Source Security Projects.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff0000",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
