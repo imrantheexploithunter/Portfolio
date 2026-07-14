@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://imrantheexploithunter.org/sitemap.xml
+Sitemap: https://imrantheexploithunter.github.io/Portfolio/sitemap.xml
